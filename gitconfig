@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jesica.j.kincaid@gmail.com
+	name = Jesica Kincaid
